@@ -47,6 +47,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yshubh12&theme=tokyonight" width="49%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshubh12&layout=compact&theme=tokyonight" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yshubh12&theme=tokyonight&no-bg=true&no-frame=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yshubh12&theme=tokyonight" width="100%"/>
+</p>
+
+
 ---
 
 ## 🤝 Let’s Connect
@@ -54,7 +67,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhyadav085" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shubhyadav085@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/shubhyadav085"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yshubh12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
