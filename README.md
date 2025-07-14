@@ -47,18 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yshubh12&theme=tokyonight" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshubh12&layout=compact&theme=tokyonight" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yshubh12&theme=tokyonight&no-bg=true&no-frame=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yshubh12&theme=tokyonight" width="100%"/>
-</p>
-
 
 ---
 
