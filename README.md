@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 💡 Enthusiastic **Python Developer** and **Data Scientist**.
+- 💡 Passionate *Machine Learning* and *Data Science* enthusiast.
 - 🏆 **Runner-up at Graph e-thon Hackathon (May 2024)**.
 - 💻 Building solutions in **AI**, **Data Science**, and **Automation**.
-- 🌱 Currently exploring **LangChain**, **AI Agents**, and **Backend Development**.
-- 📢 Open to **internships**, **freelance projects**, and **collaborations**.
+- 🌱 Currently exploring **LangChain**, **AI Agents**, and **Deep Learning**.
+- 📢 Open to **internships**, ****, **freelance projects**, and **collaborations**.
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## 📌 Featured Projects
 
-- 🎥 **Python Video Bot** — Automated video generation using Python.
 - 📰 **Saliency-Based Fake News Detection** — NLP + Explainable AI using Saliency Maps.
+- 🎥 **Python Video Bot** — Automated video generation using Python.
 - 🧵 **BookIt AI Assistant** — AI-powered appointment scheduling agent.
 - 🎓 **Student Quora Clone** — Django-based Q&A platform for academic discussions.
 
