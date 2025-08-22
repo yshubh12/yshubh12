@@ -34,7 +34,7 @@
 - 📰 **Saliency-Based Fake News Detection** — NLP + Explainable AI using Saliency Maps.
 - 🎥 **Python Video Bot** — Automated video generation using Python.
 - 🧵 **BookIt AI Assistant** — AI-powered appointment scheduling agent.
-- 🎓 **Student Quora Clone** — Django-based Q&A platform for academic discussions.
+- 🎓 **Student Quora** — Django-based Q&A platform for academic discussions.
 
 > 📝 *Detailed projects are available in the repositories section.*
 
