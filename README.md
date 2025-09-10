@@ -13,7 +13,7 @@
 - 🏆 **Runner-up at Graph e-thon Hackathon (May 2024)**.
 - 💻 Building solutions in **AI**, **Data Science**, and **Automation**.
 - 🌱 Currently exploring **LangChain**, **AI Agents**, and **Deep Learning**.
-- 📢 Open to **internships**, ****, **freelance projects**, and **collaborations**.
+- 📢 Open to **Jobs**, **freelance projects**, and **collaborations**.
 
 ---
 
