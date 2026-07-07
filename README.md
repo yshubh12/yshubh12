@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Yadav</h1>
 
 <h3 align="center">
-AI • Data Science • Machine Learning • Python Developer
+AI • Data Science • Machine Learning
 </h3>
 
 <p align="center">
@@ -44,57 +44,17 @@ AI • Data Science • Machine Learning • Python Developer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat)
-
-### AI / ML
-
-- Scikit-Learn
-- Hugging Face Transformers
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-
-### Databases
-
-- SQLite
-- ClickHouse
-- PostgreSQL
-
-### Cloud & APIs
-
-- Google Cloud
-- OpenAI API
-- Groq API
-- Google Calendar API
-- XTS Trading API
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker
-- n8n
-
----
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Python • SQL • JavaScript • HTML • CSS |
+| **Machine Learning** | Scikit-learn • XGBoost • Hugging Face • SHAP • Captum |
+| **Frameworks** | Django • Flask • Streamlit • LangChain • LangGraph |
+| **Data Science** | Pandas • NumPy • Matplotlib • Seaborn • Plotly |
+| **Databases** | SQLite • PostgreSQL • ClickHouse |
+| **Cloud & APIs** | OpenAI API • Groq API • Google Cloud • Google Calendar API • XTS API |
+| **Tools** | Git • GitHub • VS Code • Docker • n8n |
 
 # 🚀 Featured Projects
 
@@ -170,7 +130,7 @@ Explainable NLP system that predicts fake news while highlighting the words infl
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=yshubh12&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=yshubh12&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -182,7 +142,7 @@ Explainable NLP system that predicts fake news while highlighting the words infl
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yshubh12&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yshubh12&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
