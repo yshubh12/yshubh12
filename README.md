@@ -128,21 +128,37 @@ Explainable NLP system that predicts fake news while highlighting the words infl
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Overall Stats Card -->
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=yshubh12&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Streak Stats -->
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=yshubh12&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshubh12&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages Card -->
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshubh12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yshubh12&theme=tokyo-night&hide_border=true"/>
+<!-- GitHub Contribution Activity Graph -->
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=yshubh12&theme=tokyo-night&hide_border=true"
+/>
 
 </p>
 
