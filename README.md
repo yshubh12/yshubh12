@@ -130,13 +130,13 @@ Explainable NLP system that predicts fake news while highlighting the words infl
 
 <!-- GitHub Overall Stats Card -->
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
 />
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak -->
 <img
-height="170"
+height="180"
 src="https://streak-stats.demolab.com?user=yshubh12&theme=tokyonight&hide_border=true"
 />
 
@@ -144,17 +144,17 @@ src="https://streak-stats.demolab.com?user=yshubh12&theme=tokyonight&hide_border
 
 <p align="center">
 
-<!-- Top Languages Card -->
+<!-- Top Languages -->
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshubh12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yshubh12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 />
 
 </p>
 
 <p align="center">
 
-<!-- GitHub Contribution Activity Graph -->
+<!-- Contribution Graph -->
 <img
 width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=yshubh12&theme=tokyo-night&hide_border=true"
