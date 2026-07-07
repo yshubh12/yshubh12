@@ -124,30 +124,14 @@ Explainable NLP system that predicts fake news while highlighting the words infl
 
 `Python` `PyTorch` `Transformers` `Captum` `Scikit-learn`
 
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
-
-<!-- GitHub Overall Stats Card -->
-<img
-height="180"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=yshubh12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
 
 <!-- GitHub Streak -->
 <img
 height="180"
 src="https://streak-stats.demolab.com?user=yshubh12&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-
-<!-- Top Languages -->
-<img
-height="180"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yshubh12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 />
 
 </p>
